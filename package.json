@@ -55,7 +55,7 @@
     "@types/angular-route": "^1.3.2",
     "@types/angular-sanitize": "^1.3.3",
     "@types/jasmine": "2.5.36",
-    "@types/node": "^6.0.45",
+    "@types/node": "^13.7.0",
     "babel-cli": "^6.16.0",
     "babel-preset-angular2": "^0.0.2",
     "babel-preset-es2015": "^6.16.0",
