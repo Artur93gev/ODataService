@@ -47,7 +47,7 @@
     "zone.js": "^0.8.4"
   },
   "devDependencies": {
-    "@types/angular": "^1.5.16",
+    "@types/angular": "^1.6.57",
     "@types/angular-animate": "^1.5.5",
     "@types/angular-cookies": "^1.4.2",
     "@types/angular-mocks": "^1.5.5",
